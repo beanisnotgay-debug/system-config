@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Vesktop
+Comment=Vesktop autostart script
+Exec=/home/bean/.config/hypr/scripts/launch_vesktop.sh
+StartupNotify=false
+Terminal=false
+Icon=vesktop

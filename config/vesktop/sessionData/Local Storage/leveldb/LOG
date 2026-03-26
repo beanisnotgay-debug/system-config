@@ -1,0 +1,18 @@
+2026/03/25-21:23:55.162 10817 Reusing MANIFEST /home/bean/.config/vesktop/sessionData/Local Storage/leveldb/MANIFEST-000001
+2026/03/25-21:23:55.167 10817 Recovering log #16
+2026/03/25-21:23:55.168 10817 Reusing old log /home/bean/.config/vesktop/sessionData/Local Storage/leveldb/000016.log 
+2026/03/25-21:24:55.190 10814 Level-0 table #19: started
+2026/03/25-21:24:55.195 10814 Level-0 table #19: 34890 bytes OK
+2026/03/25-21:24:55.202 10814 Delete type=0 #16
+2026/03/25-21:24:55.202 10814 Compacting 4@0 + 1@1 files
+2026/03/25-21:24:55.207 10814 Generated table #20@0: 40 keys, 45476 bytes
+2026/03/25-21:24:55.207 10814 Compacted 4@0 + 1@1 files => 45476 bytes
+2026/03/25-21:24:55.214 10814 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/03/25-21:24:55.215 10814 Delete type=2 #8
+2026/03/25-21:24:55.215 10814 Delete type=2 #11
+2026/03/25-21:24:55.215 10814 Delete type=2 #14
+2026/03/25-21:24:55.215 10814 Delete type=2 #16
+2026/03/25-21:24:55.215 10814 Delete type=2 #19
+2026/03/25-22:46:33.614 10814 Level-0 table #22: started
+2026/03/25-22:46:33.623 10814 Level-0 table #22: 31653 bytes OK
+2026/03/25-22:46:33.630 10814 Delete type=0 #18

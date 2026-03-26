@@ -1,0 +1,50 @@
+ /* ---- 💫 https://github.com/LinuxBeginnings 💫 ---- */  
+ /* wallust template - colors-rofi */
+
+* {
+active-background: #466B86;
+active-foreground: #7B9EB7;
+normal-background: #192834;
+normal-foreground: #7B9EB7;
+urgent-background: #AFDDFE;
+urgent-foreground: #7B9EB7;
+
+alternate-active-background: #335166;
+alternate-active-foreground: #7B9EB7;
+alternate-normal-background: #192834;
+alternate-normal-foreground: #7B9EB7;
+alternate-urgent-background: #192834;
+alternate-urgent-foreground: #7B9EB7;
+
+selected-active-background: #466B86;
+selected-active-foreground: #000000;
+selected-normal-background: #466B86;
+selected-normal-foreground: #000000;
+selected-urgent-background: #466B86;
+selected-urgent-foreground: #000000;
+
+background-color: #192834;
+background: rgba(0,0,0,0.7);
+foreground: #7B9EB7;
+border-color: #466B86;
+
+color0: #192834;
+color1: #277FBE;
+color2: #80BF40;
+color3: #A6F655;
+color4: #4299D7;
+color5: #80BF40;
+color6: #47ADF5;
+color7: #7B9EB7;
+color8: #3D5E76;
+color9: #8CDD3C;
+color10: #223644;
+color11: #335166;
+color12: #466B86;
+color13: #AFDDFE;
+color14: #73B234;
+color15: #D1ECFF;
+
+
+}
+

@@ -1,0 +1,1 @@
+/home/bean/.dotfiles-latest/ghostty/reload-config.scpt

@@ -1,0 +1,36 @@
+{
+    "properties_by_wallpaper": {
+        "3019043758": {},
+        "1682353172": {},
+        "3379132582": {},
+        "944340586": {},
+        "3466268102": {},
+        "3564529588": {},
+        "1315534440": {},
+        "1497931114": {},
+        "793602574": {},
+        "3388716953": {},
+        "1818385004": {},
+        "3245403095": {},
+        "3236779910": {},
+        "952979966": {},
+        "1625654476": {},
+        "2518584315": {}
+    },
+    "scale": "default",
+    "clamp": "clamp",
+    "last_wallpaper": {
+        "background_id": "2518584315",
+        "screen": "HDMI-A-1",
+        "silent": true,
+        "volume": 15,
+        "noautomute": false,
+        "no-audio-processing": false,
+        "fps": 30,
+        "disable-mouse": false,
+        "disable-parallax": false,
+        "no-fullscreen-pause": false,
+        "custom_args": "",
+        "windowed_mode": false
+    }
+}
