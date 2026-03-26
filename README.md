@@ -1,6 +1,10 @@
 git clone https://github.com/beanisnotgay-debug/system-config.git
 cd system-config
 sudo ./install.sh
+
+
+
+
 The installer will:
 1. Install all packages from packages.txt
 2. Copy configs to ~/.config/
